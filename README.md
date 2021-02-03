@@ -1,6 +1,8 @@
 # GitHub Introduction
 FGRes AB2 2021-02-03
 
+VERÄNDERUNG
+
 **GitHub Account**:  
 Sign up on [github.com)(https://github.com)
 
